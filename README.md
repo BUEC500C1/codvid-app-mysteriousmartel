@@ -8,3 +8,10 @@ The original prompt of this app was to build a REACT cross-platform app that int
 - Dialogflow
 
 ## How it works
+
+Testing of the app can be done in <a href="https://console.actions.google.com">Google Actions Console</a>. Head to the test tab and run the simulation. Sample questions can be such as:
+
+- Where can I get testing?
+- Is the virus airborne?
+
+The Android version of the app looks as follows:
