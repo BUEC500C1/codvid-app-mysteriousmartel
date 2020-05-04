@@ -1,3 +1,10 @@
 # COVID-19 Cross-Platform App
 
-Currently, I do not have the REACT portion finished, but I have attached the files for the COVID-19 chatbot assistant as a demonstration of a different type of cross-platform project. For grading purposes, graders of the project will be given ownership of the project for testing.
+The original prompt of this app was to build a REACT cross-platform app that intergrates Google maps with a COVID-19 API. Because I struggled to integrate the maps part, I instead made a cross-platform chatbot in REACT that allows you to ask for information on the disease.
+
+## Components
+
+- REACT Native
+- Dialogflow
+
+## How it works
