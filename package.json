@@ -31,5 +31,8 @@
   },
   "resolutions": {
     "@expo/react-native-action-sheet": "^3.6.0"
+  },
+  "scripts": {
+    "test": "react-scripts test --passWithNoTests"
   }
 }
