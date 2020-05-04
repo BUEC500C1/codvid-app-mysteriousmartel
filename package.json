@@ -6,7 +6,7 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
-    "test": "jest",
+    "test": "react-scripts test --passWithNoTests",
     "lint": "eslint ."
   },
   "dependencies": {
@@ -31,8 +31,5 @@
   },
   "resolutions": {
     "@expo/react-native-action-sheet": "^3.6.0"
-  },
-  "scripts": {
-    "test": "react-scripts test --passWithNoTests"
   }
 }
